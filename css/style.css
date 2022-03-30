@@ -155,13 +155,9 @@ code, pre{
      -ms-transform: skewY(-3deg);
 }
 
-section .container{
-     margin-top: 50px !important;
-}
-
 /* Stats */
 .stats {
-     padding-top: 100px;
+     padding-top: 150px;
      animation: slideInFromBottom 1.5s ease-in;
 }
 
